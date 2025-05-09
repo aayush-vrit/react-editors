@@ -57,7 +57,7 @@ export default MyEditor;
 
 ## Cloud Upload Function Example
 
-```
+```jsx
 const uploadToAWS = async (file) => {
   // 1. Get upload URL from your backend
   const response = await fetch('/api/get-upload-url', {
