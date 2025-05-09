@@ -1,3 +1,3 @@
-# Editors
+# Frontend Learning 
 
-This repository contains two WYSIWYG editors: Sun Editor and Lake JS Editor. 
+a collaborative environment for frontend devs 
